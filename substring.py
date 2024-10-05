@@ -1,3 +1,8 @@
+'''Python program to perform math module
+Author:Kevin P Tom
+Date:05-10-2024
+Version: 1.0'''
+
 #concatenate two strings
 str1="Hello, World!"
 str2=str1[7:12]
