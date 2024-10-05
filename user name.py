@@ -1,4 +1,4 @@
-'''Python program to perform math module
+'''Python program to display user name and age
 Author:Kevin P Tom
 Date:05-10-2024
 Version: 1.0'''
