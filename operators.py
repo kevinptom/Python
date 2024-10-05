@@ -1,3 +1,8 @@
+'''Python program to perform math module
+Author:Kevin P Tom
+Date:05-10-2024
+Version: 1.0'''
+
 a=10
 b=5
 #add two numbers
