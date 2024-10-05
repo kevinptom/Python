@@ -1,4 +1,4 @@
-'''Python program to perform math module
+'''Python program to concatenate two strings
 Author:Kevin P Tom
 Date:05-10-2024
 Version: 1.0'''
