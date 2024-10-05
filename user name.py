@@ -1,3 +1,7 @@
+'''Python program to perform math module
+Author:Kevin P Tom
+Date:05-10-2024
+Version: 1.0'''
 
 enter_your_name=input("Enter your name:")
 enter_your_age=int(input("Enter your age:"))
