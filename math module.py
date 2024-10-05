@@ -1,3 +1,9 @@
+
+'''Python program to perform math module
+Author:Kevin P Tom
+Date:05-10-2024
+Version: 1.0'''
+
 import math
 enter_a_number=int(input("Enter a number:"))
 print("Square root of",enter_a_number,":",math.sqrt(enter_a_number))#finding suare root of input number
