@@ -1,3 +1,7 @@
+''Python program to create,concatenate and slicing strings
+Author:Kevin P Tom
+Date:08-10-2024
+Version: 1.0'''
 first_name=input('Enter your first name')
 last_name=input('Enter your second name')
 #concatenate two strings
