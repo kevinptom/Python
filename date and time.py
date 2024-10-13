@@ -1,3 +1,7 @@
+'''Python program to display date and time in different format
+Author:Kevin P Tom
+Date:08-10-2024
+Version: 1.0'''
 from datetime import datetime
 current_time=datetime.now()
 print(current_time)
