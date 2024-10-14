@@ -22,4 +22,4 @@ remainder=num1%num2
 print("The reamainder when ",num1, "is divided by", num2 ,"is:",remainder)
 #combined arithmetic operations
 result=(num1+num2)*num3/2
-print("The result of (",num1+num2,')*',num3,"/2 is:",result)
+print("The result of (",num1,'+',num2,')*',num3,"/2 is:",result)
