@@ -1,7 +1,7 @@
 ''' Python program to find the largest
 of two numbers
 Author:Kevin P Tom
-Date:08-10-2024
+Date:15-10-2024
 Version: 1.0
 '''
 num1=int(input("Enter the first number:"))
