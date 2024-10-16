@@ -1,7 +1,7 @@
 ''' Python program to find smallest of
 three numbers
 Author:Kevin P Tom
-Date:08-10-2024
+Date:15-10-2024
 Version: 1.0
 '''
 n1=int(input("Enter the first number:"))
