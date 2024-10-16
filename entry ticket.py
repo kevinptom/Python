@@ -1,6 +1,6 @@
 ''' Python program to determine the entry ticket
 Author:Kevin P Tom
-Date:08-10-2024
+Date:15-10-2024
 Version: 1.0
 '''
 age=int(input("Enter your age:"))
