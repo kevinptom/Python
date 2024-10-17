@@ -1,4 +1,4 @@
-''Python program to print multiplication table of input number
+'''Python program to print multiplication table of input number
 Author:Kevin P Tom
 Date:08-10-2024
 Version: 1.0'''
