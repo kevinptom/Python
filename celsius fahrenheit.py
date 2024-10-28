@@ -1,3 +1,7 @@
+''' Python program to convert temperature values back and forth between Celsius and Fahrenheit
+Author:Kevin P Tom
+Date:22-10-2024
+Version: 1.0'''
 temp=int(input("Enter temperature:"))
 unit=input("Is this in Celsius or fahrenheit?")
 if unit=="C":
